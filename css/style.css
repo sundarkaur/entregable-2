@@ -1,0 +1,288 @@
+html, body{
+	font-size: 12px;
+}
+#barra{
+	display: block;
+}
+#flecha{
+	position: fixed;
+	z-index: 1;
+	font-size: 52px;
+	color: #DF0101;
+	margin-left: 94%;
+	margin-top: 24%;
+}
+
+
+/* barra de navegacion */
+.navbar{
+	background-color: black;
+}
+#logo{
+	 width: 60px;
+	 height: 50px;
+	 margin-left: 140px;
+}
+#icon-map{
+	color: #FFBF00;
+	margin-right: 30px;
+	font-size: 15px;
+}
+#icon-email{
+	color: #FFBF00;
+	font-size: 15px;
+}
+#logo1{
+	 width: 60px;
+	 height: 50px;
+	 margin-right: 140px;
+}
+
+/* top  */
+.top{
+    background-image: url(../images/fondo1.jpg);
+}
+
+#titulo-principal{
+	margin-top: 8px;
+	color: #F58703;
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 4.5em;
+	text-shadow: 0.1em 0.1em 0.1em black;
+    margin-left: 70px;
+}
+
+#titulo-1{
+	font-family: 'Archivo Black', sans-serif;
+	color: #F58703;
+	font-size: 2.5em;
+	text-shadow: 0.1em 0.1em 0.1em black;
+	
+}
+.texto-1{
+    color: white;
+	text-align: center;
+	padding-bottom: 40px;
+	margin-right: 40%;
+}
+
+
+.naranjo{
+	color: #FF4000;
+	transition: 2s;
+	font-size: 1.2em;	
+}
+#texto-naranjo:hover {
+	color: orange;
+}
+
+#logo2{
+	width: 200px;
+	height: 170px;
+}
+
+
+
+/* links */
+#links{
+	margin-right: 40px;
+}
+.nav-link{
+	color: #F58703;
+	background-color: white;
+	opacity: 0.8;
+	border: solid 1px;
+	border-color: #F58703;
+	border-radius: 10%;
+}
+
+
+
+/* nosotros */
+.nosotros{
+	background-image: url(../images/fondo2.jpg);
+}
+#grupo1{
+	margin-left: 160px;
+	margin-top: 50px;
+}
+
+#logo-nombre{
+	margin-left: 0px;
+	opacity: 0.6;
+}
+.titulo-2{
+	font-size: 200%;
+	font-style: 'Archivo Black', sans-serif;
+}
+.texto-2{
+	text-align: center;
+	color:#FF4000;
+	font-family: 'PT Serif', serif;
+	margin: 40px 30px 0px 30px;
+}
+.titulo-3{
+	font-style: 'Archivo Black', sans-serif;
+}
+.texto-3{
+	margin: 60px 80px 20px 80px;
+	text-align: center;
+	color: #FF4000;
+	font-family: 'PT Serif', serif;
+	padding-left: 100px;
+}
+#pie-de-texto3{
+	background-color: white;
+	opacity: 0.6;
+	border-color: #FF4000;
+	border: solid 1px;
+	font-size: 120%;
+}
+
+
+/* clases */
+.clases{
+	background-image: url(../images/fondo4.jpg);
+
+}
+#titulo-4{
+	text-align: center;
+	font-style: 'Archivo Black', sans-serif;
+	font-size: 200%;
+}
+.texto-4{
+	color: black;
+	background-color: #F8FBEF; opacity: 0.4;
+    padding: 30px 30px 30px 30px;
+    margin-top: 120px;
+ }
+ #titulo-5{
+ 	text-align: center;
+ }
+.texto-5{
+	padding-top: 10px;
+	color: black;
+	background-color: #F8FBEF; opacity: 0.3;
+    padding: 20px 60px 2px 60px;
+    text-align: center;
+}
+
+/* galeria */
+.galeria{
+	background-image: url(../images/01.jpg);
+	background-size: 100%;
+}
+#titulo-6{
+	font-style: 'Archivo Black', sans-serif;
+	color:  #F58703;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 200%
+}
+#titulo-7{
+	font-family: 'PT Serif', serif;
+	color:  #F58703;
+	text-align: center;
+	margin-top: 50px;
+}
+#texto-7{
+	color:  #F58703;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	margin: 0px 50px 70px 50px;
+}
+#logo3{
+	width: 170px;
+	height: 150px;
+	margin-top: 250px;
+	opacity: 0.5;
+}
+
+
+/* galeria 2 */
+.galeria-2{
+	background-image: url(../images/002.jpg);
+	background-size: 100%;
+}
+#carousel-2{
+	margin-top: 90px;
+
+}
+#logo3{
+	width: 250px;
+	height: 80px;
+	margin-top: 250px;
+	opacity: 0.5;
+}
+#logo4{
+	width: 110px;
+	height: 80px;
+	margin-top: 190px;
+	margin-left: 600px;
+	opacity: 0.5;
+}
+#titulo-8{
+    color:  #F58703;
+	text-align: center;
+	font-style: 'Archivo Black', sans-serif;
+	margin-top: 50px;
+
+}
+#texto-8{
+	font-family: 'PT Serif', serif;
+	color:  #F58703;
+	text-align: center;
+	margin: 0px 40px 50px 50px;
+}
+#texto-9{
+	color:  #F58703;
+	text-align: center;
+	font-family: 'PT Serif', serif;
+	margin: 20px 40px 50px 40px;
+}
+
+/* footer */
+#sol{
+	height: 250px;
+	position:relative;
+}
+#titulo-10{
+	font-family:'Archivo Black', sans-serif;
+	position:absolute;top: 10px;
+	font-family: 
+	color:  #F58703;
+	margin-left: 100px;
+	font-size: 150%;
+}
+
+#texto-10{
+	position:absolute;top: 20px;
+	font-family: 'PT Serif', serif;
+	color:  #F58703;
+	margin-left: 330px;
+}
+#texto-11{
+	position:absolute;top: 20px;
+	font-family: 'PT Serif', serif;
+	color:  #F58703;
+	margin-left: 150px;
+}
+
+
+#copy{
+
+	text-align: center;
+	font-family: 'PT Serif', serif;
+}
+#barra{
+	display: inline-block;
+}
+
+/* media queries */
+
+@media (min-width: 760px){
+	body {
+		font-size: 21px;
+	}
+}
