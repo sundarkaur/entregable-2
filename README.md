@@ -111,10 +111,10 @@
 ###  Información sobre los instructores.
 ###  Datos de contacto y formularios para comentarios.
 
-![](images/maqueta-primera-parte.png)
+![](images/maqueta-1.png)
 
-![](images/maqueta-segunda-parte.png)
+![](images/maqueta-2.png)
 
-![](images/maqueta-celular.png)
+![](images/maqueta-3.png)
 
-  https://sundarkaur.github.io/proyecto-final-1/.
+   https://sundarkaur.github.io/entregable-2/.
